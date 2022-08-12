@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="/images/uploads/Logos-Gold-transparent.jpg"
+          src="/images/uploads/Logos-Gold-transparent.png"
         />
       </div>
     </div>
